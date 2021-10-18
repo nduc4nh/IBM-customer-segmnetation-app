@@ -2,11 +2,11 @@
 
 ## Requirements:
 
-**Frontend: **
+**Frontend:**
 
 * nodejs: 16.7.0 (>15)
 
-**Backend: **
+**Backend:**
 
 - pandas 
 
