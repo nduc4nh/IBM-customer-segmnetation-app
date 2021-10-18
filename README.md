@@ -2,7 +2,21 @@
 
 ## Requirements:
 
+** Frontend:
+
 * nodejs: 16.7.0 (>15)
+
+** Backend:
+
+- pandas 
+
+- numpy
+
+- pickle
+
+- flask
+
+simple :)
 
 * data for backend:
 
@@ -24,4 +38,5 @@ npm start
 ```
 #from /IBM-UI
 cd backend
+python api.py
 ```
