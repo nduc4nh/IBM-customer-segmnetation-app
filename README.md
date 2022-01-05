@@ -1,3 +1,8 @@
+Associated Project:
+
+* <a href='https://github.com/nduc4nh/AutoLabel'> Auto Labeling for Suggestion Process </a>
+* <a href = "https://github.com/nduc4nh/product_crawler"> Product Crawling to build model </a>
+
 # IBM-UI
 
 ## Requirements:
